@@ -1,6 +1,6 @@
 # task2
 🐍 Task 2 – Variables, Data Types & Type Conversion (Python)
-📌 Internship Task Overview
+
 
 This task is part of the Python Developer Internship and focuses on understanding how Python handles variables, data types, type conversion, and dynamic typing.
 
